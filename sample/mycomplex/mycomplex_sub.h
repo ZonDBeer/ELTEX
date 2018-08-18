@@ -1,0 +1,1 @@
+struct _mycomplex _mycomplex_sub(struct _mycomplex num1, struct _mycomplex num2);
