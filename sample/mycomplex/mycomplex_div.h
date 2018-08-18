@@ -1,1 +1,0 @@
-struct _mycomplex _mycomplex_div(struct _mycomplex num1, struct _mycomplex num2);
